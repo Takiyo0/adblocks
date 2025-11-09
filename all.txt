@@ -80,3 +80,11 @@ https://ap.lijit.com/www/delivery/fp
 https://contextual.media.net/dmedianet.js
 https://js.spotx.tv/easi/v1/123.js
 https://a.teads.tv/page/123/tag
+https://analytics.pinterest.com
+https://widgets.pinterest.com
+https://ads.pinterest.com
+https://adtech.yahooinc.com
+https://udc.yahoo.com
+https://udcm.yahoo.com
+https://analytics.query.yahoo.com
+https://adtech.yahooinc.com
